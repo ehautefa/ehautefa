@@ -11,4 +11,5 @@ I'm currently looking for a challenging and dynamic software engineering interns
 If you have any questions or want to collaborate on a project, feel free to reach out!
 
 Email: elisehautefaye@email.com   
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/elise-hautefaye-29198a144/)
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/elise-hautefaye-29198a144/)  
+[My CV](https://github.com/ehautefa/ehautefa/files/10344275/Elise%2BHautefaye.pdf)
