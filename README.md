@@ -7,6 +7,7 @@ Some of my notable school projects include:
 - [Server IRC](https://github.com/ehautefa/IRC_server):   Basic implementation of an IRC server in C++.
 
 I then did an internship in [Smart-Chain](https://www.smart-chain.fr/), a Paris-based startup that provides web3 solutions for web2 companies. I worked on an NFT marketplace on polygon as a fullstack developer. _(STACK : React + Strapi)_
+
 I'm currently working at [Quanthome](https://www.quanthome.com/), a Swiss startup that sells data-driven information for every real estate decision. _STACK: React/NodeJS/Koa/Knex/PostgreSQL_
 
 
