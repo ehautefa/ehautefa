@@ -17,4 +17,3 @@ If you have any questions or want to collaborate on a project, feel free to reac
 Email: elisehautefaye@email.com   
 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/elise-hautefaye-29198a144/)  
 [My CV](https://github.com/user-attachments/files/16118419/Elise.Hautefaye.min.pdf)
-)
